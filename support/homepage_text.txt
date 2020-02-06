@@ -1,0 +1,74 @@
+[Editorial comments and notes in [square brackets] - you don't need to add square bracket text to your home page!]
+
+[Lorum Ipsum Text provided by the Bob Ross Lorum Ipsum Generator, http://www.bobrosslipsum.com ]
+
+[ (multi-line comment) I've marked up the headings as follows:
+
+    # Headings get one octothorpe (#)
+    ## Subheadings get two octothorpes (##)
+    ### Subsubheadings get three octothorpes (###)
+    
+ (end multi-line comment)]
+
+# A Multi-Talented Monger
+
+Hi! My name is Ellen Xample; I'm a professional monger with over ten years of mongering experience in a wide range of markets.
+
+Use what you see, don't plan it. Put light against light - you have nothing. Put dark against dark - you have nothing. It's the contrast of light and dark that each give the other one meaning. If we're going to have animals around we all have to be concerned about them and take care of them. It just happens - whether or not you worried about it or tried to plan it. Let's give him a friend too. Everybody needs a friend. Use what you see, don't plan it. Put light against light - you have nothing. Put dark against dark - you have nothing. It's the contrast of light and dark that each give the other one meaning. If we're going to have animals around we all have to be concerned about them and take care of them. It just happens - whether or not you worried about it or tried to plan it. Let's give him a friend too. Everybody needs a friend.
+
+Proud member of the Ann Arbor Monger Assn.
+
+
+## Mongered Things
+
+### Fish
+
+There is immense joy in just watching - watching all the little creatures in nature. This is an example of what you can do with just a few things, a little imagination and a happy dream in your heart. Trees get lonely too, so we'll give him a little friend. Now let's put some happy little clouds in here.
+
+### Fruit
+
+These things happen automatically. All you have to do is just let them happen. Get tough with it, get strong. Van Dyke Brown is a very nice brown, it's almost like a chocolate brown.
+
+### Iron
+
+In your world you can create anything you desire. We're not trying to teach you a thing to copy. We're just here to teach you a technique, then let you loose into the world. This is your creation - and it's just as unique and special as you are. We might as well make some Almighty mountains today as well, what the heck. With something so strong, a little bit can go a long way.
+
+### Cheese
+
+Trees cover up a multitude of sins. Let's put some happy trees and bushes back in here. Just relax and let it flow. That easy. Get away from those little Christmas tree things we used to make in school.
+
+
+## Things Mongered
+
+[The following is to be marked up as a list of four objects, with each list object containing three of it's own list objects.]
+
+    Fish
+        Trout
+        Bass
+        Shad
+    Fruit
+        Apples
+        Pears
+        Medlar
+    Iron
+        Tool Steel
+        Chromium Steel
+        Iron Oxide
+    Cheese
+        Boursin
+        Brenta
+        Brie
+        
+
+## Also, Elsewise
+
+There are no mistakes. You can fix anything that happens. A thin paint will stick to a thick paint. Steve wants reflections, so let's give him reflections. This is probably the greatest thing that's ever happened in my life. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse.
+
+
+# Occasional Zipline Commutes
+
+Trees cover up a multitude of sins. Let's put some happy trees and bushes back in here. Just relax and let it flow. That easy. Get away from those little Christmas tree things we used to make in school.
+
+There are no mistakes. You can fix anything that happens. A thin paint will stick to a thick paint. Steve wants reflections, so let's give him reflections. This is probably the greatest thing that's ever happened in my life. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse.
+
+Everything is happy if you choose to make it that way. You have to allow the paint to break to make it beautiful. Put your feelings into it, your heart, it's your world. Every time you practice, you learn more.
